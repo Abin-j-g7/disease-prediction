@@ -1,4 +1,4 @@
-readme_content = """# 🩺 Disease Prediction using Machine Learning
+ 🩺 Disease Prediction using Machine Learning
 
 This project is a **Disease Prediction System** built in **Google Colab** that uses machine learning models to predict diseases based on symptoms provided by the user.  
 
