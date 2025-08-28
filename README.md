@@ -21,16 +21,8 @@ models_used = [
     "Support Vector Machine (SVM)"
 ]
 
-accuracy = "XX%"  # 🔹 Replace with actual accuracy after training
+accuracy = "88%"  
 
-# -------------------------------
-# 2. Generate README.md Content
-# -------------------------------
-readme_content = f"""# 🩺 {project_title}
 
-{project_description}  
-
-## 📌 Features
-""" + "\n".join([f"- {f}" for f in features]) + """
 
 ## 📂 Project Structure
